@@ -1,0 +1,9 @@
+Type	Rank	Freq	Range	NormFreq	NormRange
+mirth and	1	2	2	0.790	0.667
+mirth obferved	2	1	1	0.395	0.333
+mirth of	2	1	1	0.395	0.333
+mirth on	2	1	1	0.395	0.333
+mirth take	2	1	1	0.395	0.333
+mirth univerfally	2	1	1	0.395	0.333
+mirth was	2	1	1	0.395	0.333
+mirth without	2	1	1	0.395	0.333

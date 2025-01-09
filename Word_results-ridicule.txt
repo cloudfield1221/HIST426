@@ -1,0 +1,2 @@
+Type	POS	Headword	Rank	Freq	Range	NormFreq	NormRange
+ridicule			1	17	3	6.718	1.000
