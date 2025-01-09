@@ -1,0 +1,17 @@
+Type	Rank	Freq	Range	NormFreq	NormRange
+laughter and	1	2	2	0.790	0.667
+laughter the	1	2	2	0.790	0.667
+laughter all	3	1	1	0.395	0.333
+laughter an	3	1	1	0.395	0.333
+laughter at	3	1	1	0.395	0.333
+laughter convulfions	3	1	1	0.395	0.333
+laughter excellent	3	1	1	0.395	0.333
+laughter in	3	1	1	0.395	0.333
+laughter is	3	1	1	0.395	0.333
+laughter lucian	3	1	1	0.395	0.333
+laughter merely	3	1	1	0.395	0.333
+laughter occafioned	3	1	1	0.395	0.333
+laughter of	3	1	1	0.395	0.333
+laughter riding	3	1	1	0.395	0.333
+laughter telling	3	1	1	0.395	0.333
+laughter when	3	1	1	0.395	0.333

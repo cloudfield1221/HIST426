@@ -1,0 +1,2 @@
+Type	POS	Headword	Rank	Freq	Range	NormFreq	NormRange
+laughter			1	18	3	7.114	1.000

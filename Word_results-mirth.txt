@@ -1,0 +1,2 @@
+Type	POS	Headword	Rank	Freq	Range	NormFreq	NormRange
+mirth			1	9	2	3.557	0.667

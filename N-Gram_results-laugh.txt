@@ -1,0 +1,11 @@
+Type	Rank	Freq	Range	NormFreq	NormRange
+laugh of	1	3	1	1.186	0.333
+laugh i	2	2	1	0.790	0.333
+laugh ing	2	2	2	0.790	0.667
+laugh at	4	1	1	0.395	0.333
+laugh but	4	1	1	0.395	0.333
+laugh gnafh	4	1	1	0.395	0.333
+laugh neah	4	1	1	0.395	0.333
+laugh or	4	1	1	0.395	0.333
+laugh term	4	1	1	0.395	0.333
+laugh the	4	1	1	0.395	0.333
